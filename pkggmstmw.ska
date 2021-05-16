@@ -4,9 +4,15 @@ return function(str)
 	t['status'] = {"🔴", "🌕", "🔵", "⚠️"}
 	t['mainMenu'] = {"🔥 βΔTTLΣ MΩDΣ SΩUL ҒΔRMIΠG", "⚡ SPΣΣD UP GΔMΣ", "🕑 ҒIX DΔILΨ ΩβJΣCTI∇ΣS", "🔚  ΣXIT"}
 	t['mainMenuStatus'] = {"🔴", "🔴", "🔴"}
-	t['subMenuOptions'] = {"🔒 LΩCҜ TΩШΣR TΩ LΔST βΔTTLΣ","🔓 UΠLΩCҜ TΩШΣRS","❤️ ШΣΔҜ ΣΠΣMΨ","❤️ RΣSTΩRΣ βΩSS ҜITΔΠΔ","⛔ RΣMΩ∇Σ CΔSSIΣ CΔGΣ","🎖️ RΣSTΩRΣ CΔSSIΣ CΔGΣ","🔙  βΔCҜ TΩ MΔIΠ MΣΠU"}
-	t['subMenu'] = {"🔒 LΩCҜ TΩШΣR TΩ LΔST βΔTTLΣ","❤️ ШΣΔҜ ΣΠΣMΨ","⛔ RΣMΩ∇Σ CΔSSIΣ CΔGΣ","🔙  βΔCҜ TΩ MΔIΠ MΣΠU"}
+	t['subMenuOptions'] = {"🔒 LΩCҜ TΩШΣR TΩ LΔST βΔTTLΣ", "🔓 UΠLΩCҜ TΩШΣRS", "❤️ ШΣΔҜ ΣΠΣMΨ", "❤️ RΣSTΩRΣ βΩSS ҜITΔΠΔ", "⛔ RΣMΩ∇Σ CΔSSIΣ CΔGΣ", "🎖️ RΣSTΩRΣ CΔSSIΣ CΔGΣ", "🔙  βΔCҜ TΩ MΔIΠ MΣΠU"}
+	t['subMenu'] = {"🔒 LΩCҜ TΩШΣR TΩ LΔST βΔTTLΣ","❤️ ШΣΔҜ ΣΠΣMΨ","⛔ RΣMΩ∇Σ CΔSSIΣ CΔGΣ", "🔙  βΔCҜ TΩ MΔIΠ MΣΠU"}
 	t['SubMenuStatus'] = {"🔴", "🔴", "🔴"}
-	t['Error'] = {" \n\n   🔹🔹💠 TΩΠIMΔC'S MΩD ШΩRLD 💠🔹🔹 \n\n ⚠️ This Script is modified by third party !... \n\n ➺ Subscribe to Tonimac's Mod World 🔔 and \n ➺ Join my telegram ✉️t.me/moddiscussion to get official scripts"}
+	t['LoaderMessage'] = {"◼", "◻", "◻", "◻", "◻", "◻"}
+	t['author'] = {"⚄ TΩΠIMΔC'S MΩD ШΩRLD ⚄", "fσr mσrє tríckѕ αnd típѕ víѕít mч чσutuвє chαnnєl 📺"}
+	t['symbols'] = {" ➠  "}
+	t['menuTitle'] = {"<<== 💠 TΩΠIMΔC'S MΩD ШΩRLD 💠 ==>> \n\n Select Feature", "<<== ⚔️ S͟E͟L͟E͟C͟T͟ B͟A͟T͟T͟L͟E͟ M͟O͟D͟E͟ O͟P͟T͟I͟O͟N͟S͟ ⚔️ ==>>"}
+	t['objectives'] = {"After fixing daily objective time game may hang!. \nPlease retsart game 2 min after using this hack to work","I will restart","I will do it later"}
+	t['speed'] = {'Speed hack is available on mobiles only \nOn emulators GG Speed hack will not work\nIf you are in emulators try x8speeder apk.', 'I am on mobile', 'I am on emulator', 'Try on Emulator'}
+	t['Error'] = {" \n\n   🔹🔹💠 TΩΠIMΔC'S MΩD ШΩRLD 💠🔹🔹 \n\n ⚠️ This Script is modified by third party !... \n\n ➺ Subscribe to Tonimac's Mod World 🔔 and \n ➺ Join my telegram ✉️t.me/moddiscussion to get official scripts", " \n\n   🔹🔹💠 TΩΠIMΔC'S MΩD ШΩRLD 💠🔹🔹 \n\n ⚠️ This Script is modified by third party !... \n\n ➺ Subscribe to Tonimac's Mod World 🔔 and \n ➺ Join my telegram ✉️t.me/moddiscussion to get official scripts", " \n\n    <<== 💠 TΩΠIMΔC'S MΩD ШΩRLD 💠 ==>> \n\n ♥ Thank you for using MK Mobile mod script ♥ \n\n ➺ Don' forget to Subscribe to Tonimac's Mod World 🔔 and \n ➺ Join my telegram ✉️t.me/moddiscussion for more tricks and scripts"}
 	return t[str]
 end
